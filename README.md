@@ -1,2 +1,2 @@
 # hello-world
-This is a simple hello world assignment
+GitHub Exercise Hello! This is my CSC154 Lesson 5 Lab 3 GitHub Exercise.
